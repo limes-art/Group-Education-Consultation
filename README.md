@@ -6,6 +6,6 @@ Our vision is to create a platform that groups users by a certian criteria and f
 ## Challanges
 We faced many challenges, however our biggest challange was taking our idea and turning it into an actual model that shows the real world application of this idea. After brainstorming, we decided on a way to connect students to professionals using data analysis, however, there were difficulties with coming to a conclusion on what the best way to do this would be.
 ## Use of AI
-We used AI in order to explain some of the functionalities of git and github, as well as helping us fix our code and makw it more functionable and producing a simpler, cleaner, final product.
+We used AI in order to explain some of the functionalities of git and github, as well as helping us fix our code and makw it more functionable and producing a simpler, cleaner, final product. We also used it to generate a csv file to simulate users and the information about them.
 ## Future Directions
 For our code, we decided to demonstrate how we could potentially split up these students, however, we only split them based off of one criteria. In further progressions, the creation of the groups will be far more specific and include, location, goals, age, intrests etc. We will also add a "request a service" for those who have benifited from the inital meeting, but want something specifc such as college preperation. 
