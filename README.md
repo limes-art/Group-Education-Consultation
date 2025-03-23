@@ -1,1 +1,11 @@
 # Group-Education-Consultation
+## Inovation
+Our inovation for this was to create somwthing that allowed lower class individuals to still access the same services as others without sacrificing on quailty. Our biggest concern was leaving the students without support as some of these students may have never had the instruction on what they need to do in order to acheive their academic goals. We decided to create a platform that allows these students to connect with proffesionals in order to establish a proper sustainable plan, as this way, they will have recived in-person guidance on how to work towords their academic goal. 
+## Vision
+Our vision is to create a platform that groups users by a certian criteria and for these students to recive guidance all at once from a professional. While it won't be one-on-one, these groups are meant to have very similar students and thus, the guidance they recive from the proffesional would be applicable to all of them. Our platform can be used again as needed, such as for college preperation or final preperation, however the objective is for it to be used to allow these students to recive guidance that they otherwise couldn't have had, and then connect them to free resources that they have access to.
+## Challanges
+We faced many challenges, however our biggest challange was taking our idea and turning it into an actual model that shows the real world application of this idea. After brainstorming, we decided on a way to connect students to professionals using data analysis, however, there were difficulties with coming to a conclusion on what the best way to do this would be.
+## Use of AI
+We used AI in order to explain some of the functionalities of git and github, as well as helping us fix our code and makw it more functionable and producing a simpler, cleaner, final product.
+## Future Directions
+For our code, we decided to demonstrate how we could potentially split up these students, however, we only split them based off of one criteria. In further progressions, the creation of the groups will be far more specific and include, location, goals, age, intrests etc. We will also add a "request a service" for those who have benifited from the inital meeting, but want something specifc such as college preperation. 
